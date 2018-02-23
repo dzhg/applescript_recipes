@@ -1,4 +1,4 @@
--- This script is tested with Microsoft Output for Mac Version 15.25 on Mac OS El Capitan
+-- This script is tested with Microsoft Outlook for Mac Version 15.25 on Mac OS El Capitan
 tell application "Microsoft Outlook"
 	set theContent to "theContent"
 	set theSubject to "theSubject"
